@@ -1,4 +1,4 @@
-![Untitled-Artwork](https://user-images.githubusercontent.com/57468149/97617578-5002af80-19f4-11eb-9d9d-34c831649ea3.png)
+![Untitled-Artwork (1)](https://user-images.githubusercontent.com/57468149/97618392-56ddf200-19f5-11eb-8939-3065402f24a6.png)
 # Photo Editing Program
 This project was created using c++. The purpose of this project is to explore how basic photo editing features work. It includes functions such as multiply, overlay, screen, and more.
 
